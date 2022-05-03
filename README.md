@@ -1,9 +1,16 @@
-## Aviral Mehrotra
+## About Myself
 
-You can use the [editor on GitHub](https://github.com/AviralMehrotra/aviralmehrotra.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Seeking a beginner role to enhance and explore my technical knowledge and utilizing my skills for the development of my career. 
+Strong in design and integration with intuitive problem-solving skills. Proficient in C, C++, Python, Web Dev. 
+Passionate about implementing my knowledge for launching new projects.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[![github](![github](https://user-images.githubusercontent.com/73425338/166497354-348e7597-8d67-4fbc-bf3e-871cd27436ad.png))[1]
+[![linkedin](![linkedin](https://user-images.githubusercontent.com/73425338/166498328-8640c7fd-5a54-4d6e-9877-2362fae8f7a7.png))[2]
+[![instagram](![instagram](https://user-images.githubusercontent.com/73425338/166498686-24ce153c-ebd8-4a11-8a88-369b304e579d.png))[3]
 
+[1]: http://www.github.com/aviralmehrotra/
+[2]: https://www.linkedin.com/in/aviralmehrotra9/
+[3]: https://www.instagram.com/aviral._.mehrotra/
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
