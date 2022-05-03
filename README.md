@@ -4,9 +4,10 @@ Seeking a beginner role to enhance and explore my technical knowledge and utiliz
 Strong in design and integration with intuitive problem-solving skills. Proficient in C, C++, Python, Web Dev. 
 Passionate about implementing my knowledge for launching new projects.
 
-[![github](![github](https://user-images.githubusercontent.com/73425338/166497354-348e7597-8d67-4fbc-bf3e-871cd27436ad.png))[1]
-[![linkedin](![linkedin](https://user-images.githubusercontent.com/73425338/166498328-8640c7fd-5a54-4d6e-9877-2362fae8f7a7.png))[2]
-[![instagram](![instagram](https://user-images.githubusercontent.com/73425338/166498686-24ce153c-ebd8-4a11-8a88-369b304e579d.png))[3]
+[![github](https://user-images.githubusercontent.com/73425338/166497354-348e7597-8d67-4fbc-bf3e-871cd27436ad.png)][1]
+[![linkedin](https://user-images.githubusercontent.com/73425338/166498328-8640c7fd-5a54-4d6e-9877-2362fae8f7a7.png)][2]
+[![instagram](https://user-images.githubusercontent.com/73425338/166500519-70637eba-3daf-4c07-be55-7e22974dd885.png)][3]
+
 
 [1]: http://www.github.com/aviralmehrotra/
 [2]: https://www.linkedin.com/in/aviralmehrotra9/
