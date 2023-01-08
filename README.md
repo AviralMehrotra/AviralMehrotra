@@ -1,38 +1,18 @@
-## About Myself
+<img src="https://user-images.githubusercontent.com/73425338/211180283-185bc3fc-d134-482c-9079-7bd4c3b74e91.png" alt="banner">
+<center><h3>Hi there, Myself Aviral Mehrotra</h3></center>
 
-Seeking a beginner role to enhance and explore my technical knowledge and utilizing my skills for the development of my career. 
-Strong in design and integration with intuitive problem-solving skills. Proficient in C, C++, Python, Web Dev. 
-Passionate about implementing my knowledge for launching new projects.
-
-[![github (1)](https://user-images.githubusercontent.com/73425338/166500917-93ddb441-3d32-425c-8772-19a3de10dee1.png)][1]
-[![linkedin (1)](https://user-images.githubusercontent.com/73425338/166500977-06ae0da8-58af-4175-8c20-8bcc9ee644b9.png)][2]
-[![instagram (1)](https://user-images.githubusercontent.com/73425338/166501048-002d3642-013e-44b7-a1c4-0d2e86bedb61.png)][3]
+I love developing creative websites abd implementing my designs. I'm seeking a beginner role to enhance and explore my technical knowledge and utilizing my skills for the development of my career. I'm strong in design and integration with intuitive problem-solving skills. 
+Really passionate about implementing my knowledge for launching new projects.
 
 
-[1]: http://www.github.com/aviralmehrotra/
-[2]: https://www.linkedin.com/in/aviralmehrotra9/
-[3]: https://www.instagram.com/aviral._.mehrotra/
+<a href="http://www.github.com/aviralmehrotra/"><img src="https://user-images.githubusercontent.com/73425338/211180766-511c1e62-fc47-4797-b949-082b234a988e.png" width="40px" height="40px"></img></a>
+<a href="https://www.linkedin.com/in/aviralmehrotra9/"><img src="https://user-images.githubusercontent.com/73425338/211180868-b4a0601a-bc26-494b-941c-9a1c5a1ee93d.png" width="40px" height="40px"></img></a>
+<a href="https://www.instagram.com/aviral._.mehrotra/"><img src="https://user-images.githubusercontent.com/73425338/211180902-c6f7ea1f-6bce-431e-94d6-234337dcca14.png" width="40px" height="40px"></img></a>
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
