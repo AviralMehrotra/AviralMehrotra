@@ -19,7 +19,8 @@ Really passionate about implementing my knowledge for launching new projects.
 
 - Android Application Designing 
 - Firebase
-- Javascript and ReactJS
+- Javascript 
+- ReactJS
 
 ### 👨🏻‍💻 Technical Skills
 
