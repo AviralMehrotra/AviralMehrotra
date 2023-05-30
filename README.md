@@ -9,16 +9,7 @@ Really passionate about implementing my knowledge for launching new projects.
 <a href="https://www.linkedin.com/in/aviralmehrotra9/"><img src="https://user-images.githubusercontent.com/73425338/211180868-b4a0601a-bc26-494b-941c-9a1c5a1ee93d.png" width="40px" height="40px"></a>
 <a href="https://www.instagram.com/aviral._.mehrotra/"><img src="https://user-images.githubusercontent.com/73425338/211180902-c6f7ea1f-6bce-431e-94d6-234337dcca14.png" width="40px" height="40px"></a>
 
-### 🔬 Currently working on 
-
-- Android Application for Attendance 
-- My Python Skills 
-- Some old projects
-
 ### 📑 Currently learning
-
-- Android Application Designing 
-- Firebase
 - Javascript 
 - ReactJS
 
