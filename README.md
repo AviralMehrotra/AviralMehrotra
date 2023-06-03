@@ -26,7 +26,7 @@ Really passionate about implementing my knowledge for creating new projects.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aviralmehrotra&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact) 
 
 ### 😂 Random Dev Meme
-<img src="https://random-memer-production-019b.up.railway.app/" width="256px"/>
+<img src="https://random-memer-production-019b.up.railway.app/" style="border: 1px; border-radius: 15px%; width: 256px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=aviralmehrotra&icon=1&color=1)](https://visitcount.itsvg.in)
