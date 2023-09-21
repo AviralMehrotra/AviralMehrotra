@@ -12,24 +12,24 @@ Really passionate about implementing my knowledge for creating new projects.
 
 ---
 ### 📑 Currently learning
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+<img src="https://cdn.simpleicons.org/mongodb/47A248" height="30" alt="mongodb logo"  />  <img width="12" />   <img src="https://cdn.simpleicons.org/redux/764ABC" height="30" alt="redux logo"  />
 
 ---
 ### 👨🏻‍💻 Technical Skills
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![jQuerry](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+<img src="https://cdn.simpleicons.org/html5/E34F26" height="30" alt="html5 logo"  />  <img width="12" />  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" alt="javascript logo"  />
+  <img width="12" />  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="30" alt="nodejs logo"  />  <img width="12" />  <img src="https://cdn.simpleicons.org/react/61DAFB" height="30" alt="react logo"  />  <img width="12" />  <img src="https://cdn.simpleicons.org/jquery/0769AD" height="30" alt="jquery logo"  />  <img width="12" />  <img src="https://cdn.simpleicons.org/python/3776AB" height="30" alt="python logo"  />  <img width="12" />
 <br><br>
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+<img src="https://cdn.simpleicons.org/css3/1572B6" height="30" alt="css3 logo"  />  <img width="12" />  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="30" alt="bootstrap logo"  />  <img width="12" />
 <br><br>
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="git logo"  />  <img width="12" />  <img src="https://cdn.simpleicons.org/django/092E20" height="30" alt="django logo"  />  <img width="12" />
 
 ---
 ### 📊 Github Stats
-![](https://github-readme-streak-stats.herokuapp.com/?user=aviralmehrotra&theme=tokyonight&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aviralmehrotra&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact) 
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=aviralmehrotra&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=aviralmehrotra&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
 ---
-### 😂 Random Dev Meme
-<img src="https://random-memer-production-019b.up.railway.app/" style="border: 1px; border-radius: 15px%; width: 256px;"/>
 
----
 [![](https://visitcount.itsvg.in/api?id=aviralmehrotra&icon=1&color=1)](https://visitcount.itsvg.in)
